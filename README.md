@@ -8,7 +8,7 @@ A simple script that configures polybar and rofi according to the theme you'd ch
 ## Usage
 * cd into the "Dashy_themes" folder → **cd ~/Dashy_themes**
 * Currently oonly two themes are available (cyan & red) but I plan on adding more in the future
-* Run **./theme.sh *theme** (REPLACE 'theme' with the desired theme[cyan or red]) 
+* Run **./theme.sh _theme** (REPLACE 'theme' with the desired theme[cyan or red]) 
 * Enjoy :)
 ## Important Note
 Make sure that polybar, rofi, and nitrogen are installed (It should be there in the repositories of your distro)
