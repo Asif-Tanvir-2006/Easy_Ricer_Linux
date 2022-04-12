@@ -10,11 +10,12 @@ Make sure that **polybar, rofi, and nitrogen** are installed (It should be there
 ## Usage
 * cd into the "Dashy_themes" folder → **cd ~/Dashy_themes**
 * Currently only two themes are available (cyan & red) but I plan on adding more in the future
-* Run → **./theme.sh _theme** (REPLACE 'theme' with the desired theme[cyan or red]) 
+* Run → **./theme.sh theme** (REPLACE 'theme' with the desired theme[cyan or red]) 
 * Enjoy :)
 
 ## Sample Pics
 ## Cyan Theme
+* ./theme.sh cyan
 
 ![Screenshot from 2022-04-12 20-45-48](https://user-images.githubusercontent.com/98411318/162995789-aa3d40ba-f203-4fd5-b6d5-d9a621ba8171.png)
 
@@ -22,6 +23,7 @@ Make sure that **polybar, rofi, and nitrogen** are installed (It should be there
 
 
 ## Red Theme
+* ./theme.sh red
 
 ![Screenshot from 2022-04-12 20-47-12](https://user-images.githubusercontent.com/98411318/162995935-d077b3e1-072b-4992-a73e-5c193ac6f369.png)
 
