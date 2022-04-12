@@ -4,7 +4,7 @@ A simple script that configures polybar and rofi according to the theme you'd ch
 Make sure that **polybar, rofi, and nitrogen** are installed (It should be there in the repositories of your distro)
 ## Steps for installation
 * Clone the repository
-* Make the installer script executable by runnin **chmod x installer.sh**
+* Make the installer script executable by running **chmod x installer.sh**
 * Run the installer script → **./installer.sh**
 * A folder named "Dashy_themes" should be created in your home directory
 ## Usage
