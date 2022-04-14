@@ -31,9 +31,11 @@ Make sure that **polybar, rofi, and nitrogen** are installed (It should be there
 ![Screenshot from 2022-04-14 15-27-40](https://user-images.githubusercontent.com/98411318/163314375-b7bcfe17-ce38-4d57-9375-c4ff50db9bf2.png)
 ![Screenshot from 2022-04-14 15-27-29](https://user-images.githubusercontent.com/98411318/163314352-b31709bd-cc91-4262-aa14-101d7c678a93.png)
 ## Cyan_Green Theme
+* ./theme.sh cyan_green
 ![Screenshot from 2022-04-14 15-28-30](https://user-images.githubusercontent.com/98411318/163314444-25bed500-5edd-4980-a8ef-d8bb63cffc2a.png)
 ![Screenshot from 2022-04-14 15-28-20](https://user-images.githubusercontent.com/98411318/163314450-6c5ce29a-3b69-44b1-85c2-70b39dde1341.png)
 ## Yellow Theme
+* ./theme.sh yellow
 ![Screenshot from 2022-04-14 15-29-16](https://user-images.githubusercontent.com/98411318/163314587-a8667ed9-8818-4fd1-ab66-3e38218277aa.png)
 ![Screenshot from 2022-04-14 15-29-07](https://user-images.githubusercontent.com/98411318/163314599-e5e6ea06-a4e3-464f-b110-80b5ab7b16b3.png)
 ## Thank you 😃 
