@@ -1,7 +1,7 @@
 # Easy_Ricer_Linux
 A simple script that configures polybar and rofi according to the theme you'd choose and allows you to switch between themes  
 ## Important Note
-Make sure that **polybar, rofi, and nitrogen** are installed (It should be there in the repositories of your distro)
+Make sure that **polybar, rofi, picom and nitrogen** are installed (It should be there in the repositories of your distro)
 ## Steps for installation
 * Clone the repository
 * Make the installer script executable by running → **chmod +x installer.sh**
