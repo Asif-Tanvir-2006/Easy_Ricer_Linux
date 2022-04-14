@@ -38,5 +38,9 @@ Make sure that **polybar, rofi, and nitrogen** are installed (It should be there
 * ./theme.sh yellow
 ![Screenshot from 2022-04-14 15-29-16](https://user-images.githubusercontent.com/98411318/163314587-a8667ed9-8818-4fd1-ab66-3e38218277aa.png)
 ![Screenshot from 2022-04-14 15-29-07](https://user-images.githubusercontent.com/98411318/163314599-e5e6ea06-a4e3-464f-b110-80b5ab7b16b3.png)
+## White Theme
+* ./theme.sh white
+![Screenshot from 2022-04-14 10-24-56](https://user-images.githubusercontent.com/98411318/163316409-4586ad9d-2d12-4109-a3a2-23669134d991.png)
+![Screenshot from 2022-04-14 10-25-04](https://user-images.githubusercontent.com/98411318/163316432-a87664d7-fe9e-4de4-9554-399f91ef15d8.png)
 ## Thank you 😃 
 
