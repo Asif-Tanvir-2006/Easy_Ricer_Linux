@@ -1,3 +1,4 @@
+#!/bin/bash
 DIR=~/Dashy_themes/color_themes/${1}
 if [ -d "$DIR" ]; then
   echo "Applying theme.."
